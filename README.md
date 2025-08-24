@@ -1,11 +1,10 @@
 # 你好，我是 Sid 👋
 
-🎯 **關於我**
-
-- 🛠️ 自學 AutoHotkey (AHK) 與 Python，擅長自動化腳本與流程優化  
-- 📊 熟悉 Excel 資料整理、視覺化分析與數據處理  
-- 🎬 熱衷影片剪輯、網站維護及 AI 工具整合應用  
-- 🌱 目前專注於 AI + 自動化工具開發，提升工作效率與實務能力  
+ 🎯 **關於我**
+-  自學 AutoHotkey (AHK) 與 Python，擅長自動化腳本與流程優化  
+-  熟悉 Excel 資料整理、視覺化分析與數據處理  
+-  熱衷影片剪輯、網站維護及 AI 工具整合應用  
+-  專注於 AI + 自動化工具開發，持續提升技能與實務能力  
 
 ---
 
@@ -18,11 +17,23 @@
 ---
 
 ## 📂 代表作品
-- [**AHK 自動化工具**](#)  
-  原本為遊戲腳本，改寫為通用流程自動化示範工具  
+### 1️⃣ [AetherGazer-SemiAuto-AHK](https://github.com/Sid-1996/AetherGazer-SemiAuto-AHK)  
+- 《深空之眼》半自動戰鬥腳本工具  
+- 功能：技能自動施放、工作與流程優化、GUI 狀態顯示  
+- 技術：AutoHotkey  
+- 展示自動化邏輯、流程優化與遊戲工具設計能力  
 
-- [**Python 小工具**](#)  
-  包含文字處理、自動化任務與簡易爬蟲示範程式  
+### 2️⃣ [BrownDust2-Beat-Helper](https://github.com/Sid-1996/BrownDust2-Beat-Helper)  
+- 《棕色塵埃 2》遊戲節奏與操作輔助工具  
+- 功能：自動化操作、技能優先觸發、流程監控  
+- 技術：AutoHotkey  
+- 展示使用者介面操作自動化與精準控制能力  
+
+### 3️⃣ [WutheringWaves-Resource-Calculator](https://github.com/Sid-1996/WutheringWaves-Resource-Calculator)  
+- 《颶風之潮》資源計算器  
+- 功能：資源自動計算與管理工具  
+- 技術：AutoHotkey  
+- 展示資料整理、計算邏輯與工具開發能力  
 
 ---
 
