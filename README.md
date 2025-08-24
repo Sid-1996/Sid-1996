@@ -16,7 +16,7 @@
 
 ---
 
-## 📂 代表作品
+## 📂 作品
 ### 1️⃣ [AetherGazer-SemiAuto-AHK](https://github.com/Sid-1996/AetherGazer-SemiAuto-AHK)  
 - 《深空之眼》半自動戰鬥腳本工具  
 - 功能：技能自動施放、工作與流程優化、GUI 狀態顯示  
@@ -32,8 +32,14 @@
 ### 3️⃣ [WutheringWaves-Resource-Calculator](https://github.com/Sid-1996/WutheringWaves-Resource-Calculator)  
 - 《鳴潮》資源計算器  
 - 功能：資源自動計算與管理工具  
-- 技術：Html
+- 技術：Html  
 - 展示資料整理、計算邏輯與工具開發能力  
+
+### 4️⃣ [Auto-OCR-Web](https://github.com/Sid-1996/auto-ocr-web)  
+- 全自動圖片文字識別工具  
+- 功能：拖放、貼上或上傳圖片，自動識別圖片文字並自動複製到剪貼簿  
+- 技術：Html + JavaScript (Tesseract.js)  
+- 展示前端開發、OCR 技術應用與 AI 工具整合能力  
 
 ---
 
