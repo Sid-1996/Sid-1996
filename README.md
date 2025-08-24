@@ -12,7 +12,7 @@
 - **程式語言 / 腳本**：AutoHotkey (AHK)、Python  
 - **辦公與資料處理**：Excel、Word  
 - **網站與多媒體**：Weebly、Canva、PowerDirector、CapCut  
-- **AI 工具**：ChatGPT、Claude、DeepSeek、MidJourney、Canva AI  
+- **AI 工具**：ChatGPT、Claude、DeepSeek、Canva AI、Suno、Sora、Viggle AI、Noiz AI
 
 ---
 
