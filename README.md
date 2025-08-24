@@ -30,9 +30,9 @@
 - 展示使用者介面操作自動化與精準控制能力  
 
 ### 3️⃣ [WutheringWaves-Resource-Calculator](https://github.com/Sid-1996/WutheringWaves-Resource-Calculator)  
-- 《颶風之潮》資源計算器  
+- 《鳴潮》資源計算器  
 - 功能：資源自動計算與管理工具  
-- 技術：AutoHotkey  
+- 技術：Html
 - 展示資料整理、計算邏輯與工具開發能力  
 
 ---
