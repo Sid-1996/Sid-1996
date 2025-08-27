@@ -38,18 +38,21 @@
 
 ---
 
-## ☕ 贊助我一杯咖啡
-如果你喜歡這些小作品，歡迎小額贊助支持。  
-這會是我繼續搞新東西的動力 💪
+## 📬 聯絡方式
+作者：Sid  
+GitHub：[Sid-1996](https://github.com/Sid-1996)  
+Youtube: [@SID-v7t](https://www.youtube.com/@SID-v7t)  
 
-- [贊助 US$ 5](https://www.paypal.com/ncp/payment/ARWX3ZS893UKU)  
-- [贊助 US$ 15](https://www.paypal.com/ncp/payment/4YCFVARX3ADGW)  
-- [贊助 NT$ 30](https://p.ecpay.com.tw/E0E3A)
 
 ---
 
-### 📬 找我
-GitHub: [@Sid-1996](https://github.com/Sid-1996)  
-Youtube: [@SID-v7t](https://www.youtube.com/@SID-v7t)  
-有想法、想交流都可以丟訊息或 issue  
+## ☕ 支持作者
+如果你覺得這個專案對你有幫助，歡迎小額贊助支持，讓我能持續更新與維護：
+
+- [☕ Buy Me a Coffee](https://p.ecpay.com.tw/E0E3A)
+- [🔗 Sponsor for $5](https://www.paypal.com/ncp/payment/ARWX3ZS893UKU)
+- [🔗 Sponsor for $15](https://www.paypal.com/ncp/payment/4YCFVARX3ADGW)
+
+感謝每一位支持者！💖  
+
 
