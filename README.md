@@ -40,7 +40,7 @@
 
 ## ☕ 贊助我一杯咖啡
 如果你喜歡這些小作品，歡迎小額贊助支持。  
-這會是我繼續亂搞新東西的動力 💪
+這會是我繼續搞新東西的動力 💪
 
 - [贊助 US$ 5](https://www.paypal.com/ncp/payment/ARWX3ZS893UKU)  
 - [贊助 US$ 15](https://www.paypal.com/ncp/payment/4YCFVARX3ADGW)  
