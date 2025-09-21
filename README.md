@@ -20,7 +20,7 @@
 
 > 🏠 Working from home | 💡 Automation Enthusiast | 🎮 Game Tool Developer
 
-我專注於開發**遊戲自動化工具**和**實用網頁應用**，致力於簡化複雜操作，提升使用者體驗。透過 AutoHotkey、Web 技術和創新思維，將繁瑣的重複性工作轉化為一鍵完成的便捷體驗。
+我專注於開發**工具**和**實用網頁應用**，致力於簡化複雜操作，提升使用者體驗。透過 AutoHotkey、Web、Python 技術和創新思維，讓將繁瑣的重複性工作轉化為一鍵完成的便捷體驗。
 
 ### 💻 Tech Stack
 
@@ -37,7 +37,7 @@
 
 ---
 
-## 🎮 遊戲工具集
+## 🎮 工具集
 
 ### 🔥 熱門專案
 
@@ -45,12 +45,13 @@
 <tr>
 <td width="50%">
 
-#### [🚀 AetherGazer-SemiAuto-AHK](https://github.com/Sid-1996/AetherGazer-SemiAuto-AHK)
-**深空之眼半自動化腳本**
-- ⚡ 自動普攻 & 連招系統
-- 🤖 智能戰鬥自動化
-- 🍖 無人值守烤肉功能
-- 📊 **2 Stars** | AutoHotkey
+#### [⚔️ Path of Exile Health Monitor](https://github.com/Sid-1996/PathofExile-Sid-GameTools_HealthMonitor)
+**流亡黯道遊戲輔助工具**
+- 🩸 血量/魔力智能監控
+- ⚡ 技能連段自動化
+- 🎒 一鍵清包系統
+- 📊 **1 Star** | Python + OpenCV
+
 
 </td>
 <td width="50%">
@@ -65,24 +66,16 @@
 </td>
 </tr>
 <tr>
-<td width="50%">
-
-#### [⚔️ Sid-AHK-Combo-Toolbox](https://github.com/Sid-1996/Sid-AHK-Combo-Toolbox)
-**遊戲技能連段工具箱**
-- ⏱️ 毫秒級精確延遲
-- 🎯 視窗鎖定功能
-- 📝 多組連段配置
-- 📊 **1 Star** | AutoHotkey v2
-
+  
 </td>
 <td width="50%">
 
-#### [�️ Path of Exile Health Monitor](https://github.com/Sid-1996/PathofExile-Sid-GameTools_HealthMonitor)
-**流亡黯道遊戲輔助工具**
-- 🩸 血量/魔力智能監控
-- ⚡ 技能連段自動化
-- 🎒 一鍵清包系統
-- 📊 **1 Star** | Python + OpenCV
+#### [🚀 AetherGazer-SemiAuto-AHK](https://github.com/Sid-1996/AetherGazer-SemiAuto-AHK)
+**深空之眼半自動化腳本**
+- ⚡ 自動普攻 & 連招系統
+- 🤖 智能戰鬥自動化
+- 🍖 自動烤肉功能
+- 📊 **2 Stars** | AutoHotkey
 
 </td>
 </tr>
@@ -104,16 +97,6 @@
 - 📈 體力消耗分析
 - 🔄 最佳合成策略
 - 📊 **2 Stars** | HTML/JS
-
-</td>
-<td width="33%">
-
-#### [👁️ Auto-OCR-Web](https://github.com/Sid-1996/Auto-OCR-Web)
-**網頁端 OCR 識別**
-- 🖼️ 拖拽上傳支援
-- 📋 自動複製到剪貼簿
-- 🌍 中英文識別
-- 📊 **1 Star** | Tesseract.js
 
 </td>
 <td width="33%">
@@ -150,10 +133,10 @@
 
 ## 🏆 Featured Repositories
 
-[![AetherGazer Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Sid-1996&repo=AetherGazer-SemiAuto-AHK&theme=dracula)](https://github.com/Sid-1996/AetherGazer-SemiAuto-AHK)
-[![BrownDust2 Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Sid-1996&repo=BrownDust2-Beat-Helper&theme=dracula)](https://github.com/Sid-1996/BrownDust2-Beat-Helper)
 [![Path of Exile Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Sid-1996&repo=PathofExile-Sid-GameTools_HealthMonitor&theme=dracula)](https://github.com/Sid-1996/PathofExile-Sid-GameTools_HealthMonitor)
 [![WutheringWaves Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Sid-1996&repo=WutheringWaves-Resource-Calculator&theme=dracula)](https://github.com/Sid-1996/WutheringWaves-Resource-Calculator)
+[![AetherGazer Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Sid-1996&repo=AetherGazer-SemiAuto-AHK&theme=dracula)](https://github.com/Sid-1996/AetherGazer-SemiAuto-AHK)
+[![BrownDust2 Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Sid-1996&repo=BrownDust2-Beat-Helper&theme=dracula)](https://github.com/Sid-1996/BrownDust2-Beat-Helper)
 
 ---
 
@@ -203,5 +186,6 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Sid-1996&color=brightgreen&style=flat-square)
 
 **讓我們一起讓世界變得更簡單！** 🚀
+
 
 </div>
