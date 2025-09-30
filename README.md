@@ -46,7 +46,7 @@
 <td width="50%">
 
 #### [⚔️ Path of Exile Health Monitor](https://github.com/Sid-1996/PathofExile-Sid-GameTools_HealthMonitor)
-**流亡黯道遊戲輔助工具**
+**流亡黯道輔助工具**
 - 🩸 血量/魔力智能監控
 - ⚡ 技能連段自動化
 - 🎒 一鍵清包系統
@@ -57,7 +57,7 @@
 <td width="50%">
 
 #### [🎵 BrownDust2-Beat-Helper](https://github.com/Sid-1996/BrownDust2-Beat-Helper)
-**棕色塵埃 2 音樂小遊戲輔助**
+**棕色塵埃 2 小音樂遊戲自動化ahk**
 - 🎯 精準節拍檢測
 - 🖱️ 可拖拽調整介面
 - 🎨 顏色識別技術
@@ -189,3 +189,4 @@
 
 
 </div>
+
