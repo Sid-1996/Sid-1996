@@ -4,7 +4,6 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/Sid-1996?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/Sid-1996?style=social)
-[![YouTube Channel](https://img.shields.io/badge/YouTube-@SID--v7t-red?style=flat&logo=youtube)](https://www.youtube.com/@SID-v7t)
 
 **🔹 化繁為簡 → 讓多餘的操作歸零，專注於核心樂趣**
 
