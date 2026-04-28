@@ -1,191 +1,101 @@
-# Hi there! 👋 I'm Sid
+# Hi there, I'm Sid
 
-<div align="center">
+化繁為簡，讓工具回到「幫你省事」這件事本身。
 
-![GitHub followers](https://img.shields.io/github/followers/Sid-1996?style=social)
-![GitHub stars](https://img.shields.io/github/stars/Sid-1996?style=social)
+我主要開發自動化工具與實用型網頁應用，專注把重複操作壓縮成更直覺、更順手的流程。常用技術包含 AutoHotkey、JavaScript、HTML/CSS、Python 與 OpenCV。
 
-**🔹 化繁為簡 → 讓多餘的操作歸零，專注於核心樂趣**
+## About Me
 
-**🔹 半自動化 → 一鍵啟動，繁瑣即刻消失**
+- Working from home
+- Automation enthusiast
+- Tool builder for games and everyday workflows
 
-**🔹 沉浸體驗 → 不再被操作束縛，只留下純粹的遊戲感**
-
-</div>
-
----
-
-## 🚀 About Me
-
-> 🏠 Working from home | 💡 Automation Enthusiast | 🎮 Game Tool Developer
-
-我專注於開發**工具**和**實用網頁應用**，致力於簡化複雜操作，提升使用者體驗。透過 AutoHotkey、Web、Python 技術和創新思維，讓將繁瑣的重複性工作轉化為一鍵完成的便捷體驗。
-
-### 💻 Tech Stack
-
-<div align="center">
+## Tech Stack
 
 ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-334455?style=for-the-badge&logo=autohotkey&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-</div>
+## Featured Projects
 
----
+### Path of Exile Health Monitor
+流亡黯道輔助工具，聚焦戰鬥監控與操作減負。  
+[Repository](https://github.com/Sid-1996/PathofExile-Sid-GameTools_HealthMonitor)
 
-## 🎮 工具集
+- 血量與魔力監控
+- 技能連段自動化
+- 一鍵清包流程
+- Python + OpenCV
 
-### 🔥 熱門專案
+### BrownDust2-Beat-Helper
+棕色塵埃 2 音樂小遊戲自動化工具。  
+[Repository](https://github.com/Sid-1996/BrownDust2-Beat-Helper)
 
-<table>
-<tr>
-<td width="50%">
+- 節拍判定輔助
+- 可拖曳調整介面
+- 顏色識別流程
+- AutoHotkey v2
 
-#### [⚔️ Path of Exile Health Monitor](https://github.com/Sid-1996/PathofExile-Sid-GameTools_HealthMonitor)
-**流亡黯道輔助工具**
-- 🩸 血量/魔力智能監控
-- ⚡ 技能連段自動化
-- 🎒 一鍵清包系統
-- 📊 **1 Star** | Python + OpenCV
+### AetherGazer-SemiAuto-AHK
+深空之眼半自動化腳本。  
+[Repository](https://github.com/Sid-1996/AetherGazer-SemiAuto-AHK)
 
+- 自動普攻與連招
+- 戰鬥流程輔助
+- AutoHotkey
 
-</td>
-<td width="50%">
+## Web Apps
 
-#### [🎵 BrownDust2-Beat-Helper](https://github.com/Sid-1996/BrownDust2-Beat-Helper)
-**棕色塵埃 2 小音樂遊戲自動化ahk**
-- 🎯 精準節拍檢測
-- 🖱️ 可拖拽調整介面
-- 🎨 顏色識別技術
-- 📊 **2 Stars** | AutoHotkey v2
+### 鳴潮資源計算器
+為角色、武器與素材規劃提供更直覺的計算流程。  
+[Repository](https://github.com/Sid-1996/WutheringWaves-Resource-Calculator)
 
-</td>
-</tr>
-<tr>
-  
-</td>
-<td width="50%">
+- 升級素材規劃
+- 體力消耗分析
+- 合成策略整理
+- HTML / JavaScript
 
-#### [🚀 AetherGazer-SemiAuto-AHK](https://github.com/Sid-1996/AetherGazer-SemiAuto-AHK)
-**深空之眼半自動化腳本**
-- ⚡ 自動普攻 & 連招系統
-- 🤖 智能戰鬥自動化
-- 🍖 自動烤肉功能
-- 📊 **2 Stars** | AutoHotkey
+### Advanced Image Converter
+線上圖片格式轉換工具。  
+[Live Demo](https://sid-1996.github.io/Advanced-Image-Converter/)
 
-</td>
-</tr>
-</table>
+- 支援 ICO / PNG / WebP
+- 即時線上轉換
+- 高品質輸出
 
----
+## Philosophy
 
-## 🌐 網頁應用
+我想做的不是把功能堆滿，而是把多餘操作拿掉。
 
-### 💎 實用工具
+每個工具都來自同一個出發點：
 
-<table>
-<tr>
-<td width="33%">
+- 減少重複
+- 降低操作負擔
+- 保留真正重要的體驗
 
-#### [📊 鳴潮資源計算器](https://github.com/Sid-1996/WutheringWaves-Resource-Calculator)
-**智慧素材計算工具**
-- 🎯 精準升級規劃
-- 📈 體力消耗分析
-- 🔄 最佳合成策略
-- 📊 **2 Stars** | HTML/JS
+> 工具只是手段，真正的價值在於它是否讓事情變得更簡單。
 
-</td>
-<td width="33%">
+## GitHub Stats
 
-#### [🎨 Advanced Image Converter](https://github.com/Sid-1996/Advanced-Image-Converter)
-**進階圖片轉換器**
-- 🔄 ICO/PNG/WebP 支援
-- ⚡ 即時線上轉換
-- 🎯 [**立即體驗**](https://sid-1996.github.io/Advanced-Image-Converter/)
-- 📊 高品質輸出
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sid-1996&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sid-1996&layout=compact)
 
-</td>
-</tr>
-</table>
+## Connect
 
----
+- GitHub: https://github.com/Sid-1996
+- Facebook: https://www.facebook.com/talksometingshit
 
-## 📊 GitHub Stats
+歡迎交流技術、分享想法，或提出改進建議。
 
-<div align="center">
+## Support
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sid-1996&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sid-1996&layout=compact&langs_count=8&theme=dracula"/>
+如果我的工具對你有幫助，歡迎用你喜歡的方式支持我。
 
-</div>
+- Ko-fi
+- PayPal
+- ECPay
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Sid-1996&theme=dracula)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 Featured Repositories
-
-[![Path of Exile Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Sid-1996&repo=PathofExile-Sid-GameTools_HealthMonitor&theme=dracula)](https://github.com/Sid-1996/PathofExile-Sid-GameTools_HealthMonitor)
-[![WutheringWaves Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Sid-1996&repo=WutheringWaves-Resource-Calculator&theme=dracula)](https://github.com/Sid-1996/WutheringWaves-Resource-Calculator)
-[![AetherGazer Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Sid-1996&repo=AetherGazer-SemiAuto-AHK&theme=dracula)](https://github.com/Sid-1996/AetherGazer-SemiAuto-AHK)
-[![BrownDust2 Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Sid-1996&repo=BrownDust2-Beat-Helper&theme=dracula)](https://github.com/Sid-1996/BrownDust2-Beat-Helper)
-
----
-
-## 💌 關於這裡
-
-這是一個收納我作品的角落。每個工具都源自於**簡化複雜操作**的初心——讓技術服務於生活，讓工具帶來便利而非負擔。
-
-> 🖤 **一切只是工具，選擇如何使用，取決於你。**
-
-若這些工具在你的遊戲或工作中帶來幫助，那正是它們存在的價值。
-
----
-
-## 📬 聯絡方式
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Sid--1996-181717?style=for-the-badge&logo=github)](https://github.com/Sid-1996)
-[![YouTube](https://img.shields.io/badge/YouTube-@SID--v7t-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@SID-v7t)
-
-**歡迎交流技術、分享想法，或提出改進建議！**
-
-</div>
-
----
-
-## ☕ 支持我的工作
-
-如果我的工具為你帶來了便利，歡迎請我喝杯咖啡 ☕
-
-<div align="center">
-
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/K3K11KMXOL)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/ncp/payment/GJS4D5VTSVWG4)
-[![ECPay](https://img.shields.io/badge/綠界科技-00A000?style=for-the-badge)](https://p.ecpay.com.tw/E0E3A)
-
-**感謝每一位支持者的力量** 💚
-
-</div>
-
----
-
-<div align="center">
-
-### 🌟 如果覺得有用，別忘了給個 Star！
-
-![Profile views](https://komarev.com/ghpvc/?username=Sid-1996&color=brightgreen&style=flat-square)
-
-**讓我們一起讓世界變得更簡單！** 🚀
-
-
-</div>
-
+如果你喜歡這些作品，也歡迎幫專案點個 Star。
