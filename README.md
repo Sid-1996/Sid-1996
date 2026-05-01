@@ -1,3 +1,4 @@
+![GitHubCard](https://githubcard.com/Sid-1996.svg?d=Z5SEMTGa)
 # Hi there, I'm Sid 👋
 
 **化繁為簡，讓工具回到「幫你省事」這件事本身。**
