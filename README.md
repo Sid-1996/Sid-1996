@@ -1,4 +1,3 @@
-![GitHubCard](https://githubcard.com/Sid-1996.svg?d=Z5SEMTGa)
 # Hi there, I'm Sid 👋
 
 **化繁為簡，讓工具回到「幫你省事」這件事本身。**
@@ -79,6 +78,8 @@
 - 保留真正重要的體驗
 
 > 工具只是手段，真正的價值在於它是否讓事情變得更簡單。
+
+![GitHubCard](https://githubcard.com/Sid-1996.svg?d=Z5SEMTGa)
 
 ## Connect
 
