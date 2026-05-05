@@ -154,8 +154,8 @@
 
 如果我的工具對你有幫助，歡迎用你喜歡的方式支持我。
 
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-Sid-FF5E5B?logo=kofi&style=for-the-badge)](https://ko-fi.com/sid_1996)
-[![PayPal](https://img.shields.io/badge/PayPal-Sid-00457C?logo=paypal&style=for-the-badge)](https://paypal.me/sid1996)
-[![ECPay](https://img.shields.io/badge/ECPay-Sid-8A2BE2?style=for-the-badge)](https://p.ecpay.com.tw/E0E3A)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?logo=kofi&logoColor=white&label=Support%20Sid)](https://ko-fi.com/K3K11KMXOL)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white&label=Support%20Sid)](https://www.paypal.com/ncp/payment/GJS4D5VTSVWG4)
+[![ECPay](https://img.shields.io/badge/ECPay-8A2BE2?logo=amazonpay&logoColor=white&label=Support%20Sid)](https://p.ecpay.com.tw/E0E3A)
 
 如果你喜歡這些作品，也歡迎幫專案點個 ⭐ Star。
