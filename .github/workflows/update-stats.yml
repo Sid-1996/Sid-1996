@@ -32,6 +32,8 @@ jobs:
         run: cd /tmp/grs && npm install
 
       - name: Fetch SVGs
+        env:
+          PAT_1: ${{ secrets.PAT_1 }}
         run: |
           cd /tmp/grs
           nohup node express.js > server.log 2>&1 &
