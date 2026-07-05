@@ -13,8 +13,8 @@ I'm an independent developer focused on desktop automation, workflow optimizatio
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sid-1996&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sid-1996&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d" width="48%" />
+  <img src="stats/stats.svg" width="48%" />
+  <img src="stats/top-langs.svg" width="48%" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Sid-1996&theme=dark&background=0d1117&border=30363d" width="50%" />
