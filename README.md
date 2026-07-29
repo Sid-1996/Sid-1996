@@ -17,7 +17,7 @@ I'm an independent developer focused on desktop automation, workflow optimizatio
   <img src="stats/top-langs.svg" width="48%" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sid-1996&theme=dark&background=0d1117&border=30363d" width="50%" />
+  <img src="stats/streak.svg" width="50%" />
 </p>
 
 ---
@@ -158,7 +158,7 @@ A fully client-side image toolkit. Features format conversion (including ICO), A
 
 ## 📈 Activity
 
-![Sid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sid-1996&theme=github-dark)
+<img src="stats/github-snake.svg" />
 
 ---
 
