@@ -83,7 +83,7 @@ Semi-auto assistant for Aether Gazer. Modular project structure with standalone 
 - 獨立座標校正工具 / Standalone coordinate calibration tool
 - 自動版本檢查機制 / Auto version checking
 
-🔗 [AetherGazer-SemiAuto-AHK](https://github.com/Sid-1996/AetherGazer-SemiAuto-AHK) ⭐4
+🔗 [AetherGazer-SemiAuto-AHK](https://github.com/Sid-1996/AetherGazer-SemiAuto-AHK) ⭐5
 
 ---
 
@@ -114,7 +114,7 @@ A no-code OCR-triggered clicker — the flagship cross-stack project. Features a
 - No-Code 極簡操作介面 / No-code minimalist UI
 - 常駐監控、群組規則、多任務管理 / Background monitoring, group rules, multi-task management
 - OCR 診斷面板與效能監控 / OCR diagnostic panel and performance monitor
-- 🚧 Beta — 持續開發中 / Beta — actively developed
+- 🚧 持續開發中 / Actively developed
 
 🔗 [ocr-trigger-clicker](https://github.com/Sid-1996/ocr-trigger-clicker)
 
@@ -136,23 +136,23 @@ Smart resource calculator for Wuthering Waves. Automatically analyzes material g
 - 體力消耗與場次估算 / Stamina cost and run estimation
 - 一鍵複製報告 / One-click report copy
 
-🔗 [Repo](https://github.com/Sid-1996/WutheringWaves-Resource-Calculator) · [Live Demo](https://sid-1996.github.io/WutheringWaves-Resource-Calculator/) ⭐4
+🔗 [Repo](https://github.com/Sid-1996/WutheringWaves-Resource-Calculator) · [Live Demo](https://sid-1996.github.io/WutheringWaves-Resource-Calculator/) ⭐5
 
 ---
 
-#### 🖼️ Advanced Image Converter
-`Canvas API` `Client-side` `Batch Processing`
+#### 🖼️ PicTool
+`Canvas API` `AI Background Removal` `Client-side` `Batch Processing`
 
-完全在客戶端運行的圖片格式轉換工具。支援 ICO / PNG / WebP / JPEG 互轉，拖曳上傳、批次處理，無須上傳伺服器，保障隱私。
+完全在客戶端運行的多功能圖片工具箱。支援格式轉換（含 ICO 生成）、AI 自動去背、壓縮到指定大小。無須上傳伺服器，保障隱私。
 
-Fully client-side image converter. Supports ICO / PNG / WebP / JPEG conversion with drag-and-drop and batch processing. Zero server upload — your privacy is guaranteed.
+A fully client-side image toolkit. Features format conversion (including ICO), AI-powered background removal, and size-targeted compression. Zero server upload — your privacy is guaranteed.
 
-- 多格式互轉 (ICO / PNG / WebP / JPEG) / Multi-format conversion
-- 拖曳上傳與批次處理 / Drag-and-drop with batch processing
+- 格式轉換 + ICO 生成 / Format conversion + ICO generation
+- AI 自動去背 / AI background removal
+- 圖片壓縮到指定大小 / Image compression to target size
 - 純前端架構，保障隱私 / Pure client-side for privacy
-- 即時預覽與下載 / Live preview and download
 
-🔗 [Repo](https://github.com/Sid-1996/Advanced-Image-Converter) · [Live Demo](https://sid-1996.github.io/Advanced-Image-Converter/) ⭐1
+🔗 [Repo](https://github.com/Sid-1996/pictool) · [Live Demo](https://sid-1996.github.io/pictool/) ⭐1
 
 ---
 
