@@ -19,38 +19,21 @@ jobs:
       - name: Checkout profile repo
         uses: actions/checkout@v5
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v5
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
         with:
-          node-version: '22'
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d
+          path: stats/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Clone github-readme-stats source
-        run: |
-          git clone --depth 1 https://github.com/anuraghazra/github-readme-stats.git /tmp/grs
-
-      - name: Install dependencies
-        run: cd /tmp/grs && npm install
-
-      - name: Fetch SVGs
-        env:
-          PAT_1: ${{ secrets.PAT_1 }}
-        run: |
-          cd /tmp/grs
-          nohup node express.js > server.log 2>&1 &
-          SERVER_PID=$!
-          for i in $(seq 1 20); do
-            if curl -sf "http://localhost:9000/api?username=Sid-1996" -o /dev/null; then
-              echo "Server ready"
-              break
-            fi
-            sleep 1
-          done
-          mkdir -p "$GITHUB_WORKSPACE/stats"
-          curl -s "http://localhost:9000/api?username=Sid-1996&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d" \
-            -o "$GITHUB_WORKSPACE/stats/stats.svg"
-          curl -s "http://localhost:9000/api/top-langs/?username=Sid-1996&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d" \
-            -o "$GITHUB_WORKSPACE/stats/top-langs.svg"
-          kill $SERVER_PID 2>/dev/null || true
+      - name: Generate top languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d
+          path: stats/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate streak stats
         uses: DenverCoder1/github-readme-streak-stats@main
