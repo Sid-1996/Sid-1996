@@ -8,6 +8,10 @@
 
 I'm an independent developer focused on desktop automation, workflow optimization, and practical web tools. I specialize in compressing repetitive tasks into one-click solutions — owning the full cycle from idea to release.
 
+**擅長打造親民直覺的 GUI 介面。真正理解使用者需要什麼——不是塞滿功能，而是讓工具一看就會用、一用就順手。簡單明瞭，才是真的好用。**
+
+**I specialize in building intuitive, user-friendly GUI interfaces. I truly understand what users need — not feature-packed, but tools that feel natural from the first click. Simple, clear, and effortlessly convenient.**
+
 ---
 
 ## 📊 GitHub Stats
