@@ -28,11 +28,12 @@ jobs:
           core_version: 2.1.5
 
       - name: Generate top languages card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: readme-tools/github-readme-stats-action@v2.0.2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d
+          options: username=${{ github.repository_owner }}&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&card_width=395
           path: stats/top-langs.svg
+          core_version: 2.1.5
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate streak stats
