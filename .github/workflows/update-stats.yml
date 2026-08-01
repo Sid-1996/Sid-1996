@@ -20,12 +20,12 @@ jobs:
         uses: actions/checkout@v5
 
       - name: Generate stats card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: readme-tools/github-readme-stats-action@v2.0.2
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d
           path: stats/stats.svg
-          token: ${{ secrets.PAT_1 }}
+          core_version: 2.1.5
 
       - name: Generate top languages card
         uses: readme-tools/github-readme-stats-action@v1
