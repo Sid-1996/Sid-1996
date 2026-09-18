@@ -56,7 +56,7 @@ Real-time HP/MP monitoring and automation system for Path of Exile 2. Uses image
 - 自動連點與全域暫停熱鍵 / Auto-click + global pause hotkeys
 - 內建自動更新機制 / Built-in auto-updater
 
-🔗 [GameTools Health Monitor](https://github.com/Sid-1996/PathofExile-Sid-GameTools_HealthMonitor) ⭐10
+🔗 [GameTools Health Monitor](https://github.com/Sid-1996/PathofExile-Sid-GameTools_HealthMonitor) ![GitHub stars](https://img.shields.io/github/stars/Sid-1996/PathofExile-Sid-GameTools_HealthMonitor?style=flat)
 
 ---
 
@@ -73,7 +73,7 @@ The open-source edition of a comprehensive PoE1 automation toolkit with 8 years 
 - 快速交易/組隊、分頁搜尋與市集比價 / Quick trade/party, stash search, and price check
 - AFK / 勿擾自動回覆 / AFK / Do-Not-Disturb auto-reply
 
-🔗 [Sid-Exile-Toolbox](https://github.com/Sid-1996/Sid-Exile-Toolbox) ⭐1
+🔗 [Sid-Exile-Toolbox](https://github.com/Sid-1996/Sid-Exile-Toolbox) ![GitHub stars](https://img.shields.io/github/stars/Sid-1996/Sid-Exile-Toolbox?style=flat)
 
 ---
 
@@ -89,7 +89,7 @@ Semi-auto assistant for Aether Gazer. Modular project structure with standalone 
 - 遊戲視窗調整與座標校正 / Window resizing + coordinate calibration
 - 自動版本檢查與啟動批次檔 / Auto version checking + launch script
 
-🔗 [AetherGazer-SemiAuto-AHK](https://github.com/Sid-1996/AetherGazer-SemiAuto-AHK) ⭐5
+🔗 [AetherGazer-SemiAuto-AHK](https://github.com/Sid-1996/AetherGazer-SemiAuto-AHK) ![GitHub stars](https://img.shields.io/github/stars/Sid-1996/AetherGazer-SemiAuto-AHK?style=flat)
 
 ---
 
@@ -106,7 +106,7 @@ Low-latency color detection and trigger system for Brown Dust 2. Real-time color
 - INI 設定檔儲存 / INI configuration storage
 - 多語言介面與一鍵建置腳本 / Bilingual UI + one-click build script
 
-🔗 [BrownDust2-Beat-Helper](https://github.com/Sid-1996/BrownDust2-Beat-Helper) ⭐8
+🔗 [BrownDust2-Beat-Helper](https://github.com/Sid-1996/BrownDust2-Beat-Helper) ![GitHub stars](https://img.shields.io/github/stars/Sid-1996/BrownDust2-Beat-Helper?style=flat)
 
 ---
 
@@ -125,7 +125,7 @@ A no-code Windows automation tool — detects on-screen text and triggers clicks
 - 繁中 / English 介面切換 + 自動更新 / Bilingual UI + auto-update
 - 🚧 持續開發中 / Actively developed
 
-🔗 [ocr-trigger-clicker](https://github.com/Sid-1996/ocr-trigger-clicker) ⭐1
+🔗 [ocr-trigger-clicker](https://github.com/Sid-1996/ocr-trigger-clicker) ![GitHub stars](https://img.shields.io/github/stars/Sid-1996/ocr-trigger-clicker?style=flat)
 
 ---
 
@@ -146,7 +146,7 @@ Smart resource calculator for Wuthering Waves. Automatically analyzes character 
 - 多角色同步規劃與一鍵複製報告 / Multi-character planning + one-click report copy
 - 中英雙語切換 / Bilingual UI
 
-🔗 [Repo](https://github.com/Sid-1996/WutheringWaves-Resource-Calculator) · [Live Demo](https://sid-1996.github.io/WutheringWaves-Resource-Calculator/) ⭐5
+🔗 [Repo](https://github.com/Sid-1996/WutheringWaves-Resource-Calculator) · [Live Demo](https://sid-1996.github.io/WutheringWaves-Resource-Calculator/) ![GitHub stars](https://img.shields.io/github/stars/Sid-1996/WutheringWaves-Resource-Calculator?style=flat)
 
 ---
 
@@ -163,7 +163,7 @@ A fully client-side image toolkit. Features format conversion (including ICO), A
 - 拖曳上傳 + Ctrl+V 貼上 + 響應式設計 / Drag-drop, paste, responsive design
 - 純前端架構，保障隱私 / Pure client-side for privacy
 
-🔗 [Repo](https://github.com/Sid-1996/pictool) · [Live Demo](https://sid-1996.github.io/pictool/) ⭐1
+🔗 [Repo](https://github.com/Sid-1996/pictool) · [Live Demo](https://sid-1996.github.io/pictool/) ![GitHub stars](https://img.shields.io/github/stars/Sid-1996/pictool?style=flat)
 
 ---
 
