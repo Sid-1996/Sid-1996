@@ -119,10 +119,11 @@ A no-code Windows automation tool — detects on-screen text and triggers clicks
 
 - OCR + 圖像比對雙引擎 / Dual engines: OCR + template matching
 - 多步驟流程（偵測→點擊→等待→拖曳）/ Multi-step workflows
-- 後台掛機模式（PrintWindow + PostMessage）/ Background mode with no focus stealing
+- 後台掛機模式（PrintWindow + PostMessage + Frida 注入）/ Background mode (PrintWindow + PostMessage + Frida) with no focus stealing
 - OCR 診斷面板，雙擊文字直接建立規則 / Diagnostic panel — double-click to create rules
+- 內建星之救援者 StarSavior 輔助腳本 / Built-in StarSavior helper script
 - 視窗比例座標，跨解析度相容 / Ratio-based coordinates for any resolution
-- 繁中 / English 介面切換 + 自動更新 / Bilingual UI + auto-update
+- 繁中 / English / 日本語 介面切換 + 自動更新 / Trilingual UI + auto-update
 - 🚧 持續開發中 / Actively developed
 
 🔗 [ocr-trigger-clicker](https://github.com/Sid-1996/ocr-trigger-clicker) ![GitHub stars](https://img.shields.io/github/stars/Sid-1996/ocr-trigger-clicker?style=flat)
