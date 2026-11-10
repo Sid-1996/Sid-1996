@@ -33,7 +33,7 @@ I'm an independent developer focused on desktop automation, workflow optimizatio
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-334455?style=flat&logo=autohotkey&logoColor=white) |
 | **Vision & Automation** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white) RapidOCR · mss · NumPy |
 | **Web** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) Canvas API |
-| **Frameworks & Tools** | ![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=flat&logo=qt&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) PyInstaller |
+| **Frameworks & Tools** | ![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=flat&logo=qt&logoColor=white) ![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=flat&logo=qt&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) PyInstaller |
 
 ---
 
@@ -44,7 +44,7 @@ I'm an independent developer focused on desktop automation, workflow optimizatio
 ---
 
 #### 🖥️ GameTools Health Monitor
-`Python` `OpenCV` `Multi-threading` `GUI`
+`Python` `PySide6` `OpenCV` `Multi-threading` `GUI`
 
 Path of Exile 2 即時狀態監控與自動化操作系統。基於圖像識別，透過螢幕擷取與模擬輸入與目標應用互動，不讀取記憶體或修改檔案。
 
@@ -110,20 +110,40 @@ Low-latency color detection and trigger system for Brown Dust 2. Real-time color
 
 ---
 
+#### 🖥️ StarSavior Make-10 Helper
+`Python` `PyQt6` `OpenCV` `Template Matching` `i18n`
+
+星之救援者數字 10 消除遊戲視覺輔助提示器。僅分析畫面並提示最佳消去路徑，不操作遊戲。支援多語言介面與可攜式部署。
+
+A visual hint helper for the Star Savior make-10 puzzle game. Analyzes the screen and suggests optimal merge paths — never touches the game itself. Supports i18n and portable deployment.
+
+- 畫面解析即時提示最佳消去路徑 / Real-time screen analysis with optimal merge hints
+- 僅提示不操作，不觸碰遊戲 / Hints only — never interacts with the game
+- 模板比對辨識數字方塊 / Template-matching digit recognition
+- 繁中 / English / 日本語 介面 / Trilingual UI
+- 可攜式部署，免安裝 / Portable — no installation required
+
+🔗 [starsavior-make10-helper](https://github.com/Sid-1996/starsavior-make10-helper) ![GitHub stars](https://img.shields.io/github/stars/Sid-1996/starsavior-make10-helper?style=flat)
+
+---
+
 #### 🖥️ ocr-trigger-clicker ✦
 `Python` `PyQt6` `RapidOCR` `Template Matching` `i18n`
 
-免寫程式的 Windows 自動化工具 — 偵測螢幕文字後自動點擊與按鍵。OCR + 圖像比對雙引擎、多步驟流程、跨解析度相容，持續迭代中的旗艦代表作。
+免寫程式的 Windows 自動化工具 — 偵測螢幕文字與圖像後自動點擊按鍵。OCR + 圖像比對雙引擎、F9 錄製、前/後台/混合模式、任務 JSON 匯出分享，持續迭代中的旗艦代表作。
 
-A no-code Windows automation tool — detects on-screen text and triggers clicks/keys automatically. Dual-engine (OCR + template matching), multi-step workflows, cross-resolution compatibility. The flagship project, continuously iterated.
+A no-code Windows automation tool — detect on-screen text/images with OCR, record clicks with F9, run foreground/background/hybrid modes, share tasks via JSON. Dual-engine (OCR + template matching), multi-step workflows, cross-resolution compatibility. The flagship project, continuously iterated.
 
 - OCR + 圖像比對雙引擎 / Dual engines: OCR + template matching
+- F9 錄製點擊，兩下建立規則 / F9 click recording — two clicks to build a rule
+- 前台 / 後台 / 混合模式執行 / Foreground, background, and hybrid execution modes
+- 任務 JSON 匯出與分享 / Task JSON export and sharing
 - 多步驟流程（偵測→點擊→等待→拖曳）/ Multi-step workflows
 - 後台掛機模式（PrintWindow + PostMessage + Frida 注入）/ Background mode (PrintWindow + PostMessage + Frida) with no focus stealing
 - OCR 診斷面板，雙擊文字直接建立規則 / Diagnostic panel — double-click to create rules
 - 內建星之救援者 StarSavior 輔助腳本 / Built-in StarSavior helper script
 - 視窗比例座標，跨解析度相容 / Ratio-based coordinates for any resolution
-- 繁中 / English / 日本語 介面切換 + 自動更新 / Trilingual UI + auto-update
+- 繁中 / English / 日本語 介面切換 + 自動更新安裝器 / Trilingual UI + auto-update installer
 - 🚧 持續開發中 / Actively developed
 
 🔗 [ocr-trigger-clicker](https://github.com/Sid-1996/ocr-trigger-clicker) ![GitHub stars](https://img.shields.io/github/stars/Sid-1996/ocr-trigger-clicker?style=flat)
@@ -165,6 +185,22 @@ A fully client-side image toolkit. Features format conversion (including ICO), A
 - 純前端架構，保障隱私 / Pure client-side for privacy
 
 🔗 [Repo](https://github.com/Sid-1996/pictool) · [Live Demo](https://sid-1996.github.io/pictool/) ![GitHub stars](https://img.shields.io/github/stars/Sid-1996/pictool?style=flat)
+
+---
+
+#### 🖼️ Anon Discord Img
+`HTML` `JavaScript` `Canvas` `Discord Webhook`
+
+匿名 Discord 發圖工具。支援拖曳上傳、局部馬賽克遮罩，可直接發送 Twitter/X/Pixiv 連結至 Discord 頻道。純前端架構，可部署於 Vercel。
+
+An auto-spoiler image uploader for Discord. Features drag-and-drop upload, partial mosaic masking, and direct Twitter/X/Pixiv link sending. Pure front-end architecture, deployable on Vercel.
+
+- 拖曳上傳 + 自動 spoiler 標記 / Drag-and-drop upload with auto-spoiler
+- 局部馬賽克遮罩 / Partial mosaic masking
+- Twitter / X / Pixiv 連結直接發送 / Direct Twitter/X/Pixiv link sending
+- 純前端 + Serverless 部署 / Pure front-end + serverless deployment
+
+🔗 [anon-discord-img](https://github.com/Sid-1996/anon-discord-img) ![GitHub stars](https://img.shields.io/github/stars/Sid-1996/anon-discord-img?style=flat)
 
 ---
 

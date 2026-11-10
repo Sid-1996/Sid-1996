@@ -17,7 +17,7 @@ jobs:
 
     steps:
       - name: Checkout profile repo
-        uses: actions/checkout@v5
+        uses: actions/checkout@v7
 
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v2.0.2
